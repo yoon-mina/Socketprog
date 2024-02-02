@@ -23,7 +23,7 @@ while True:
 
     if line == '' or line == '\r\n':
         break
-
+        
 for i in message:
     if i == '\r\n':
         i += '\r\n'
